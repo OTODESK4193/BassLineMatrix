@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-GPLv3-green)
 ![JUCE](https://img.shields.io/badge/JUCE-8.0.8-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20-lightgrey)
-![Downloads](https://img.shields.io/github/downloads/OTODESK4193/MULTI-OTO/total.svg)
+![Downloads](https://img.shields.io/github/downloads/OTODESK4193/BassLineMatrix.vst3/total.svg)
 
 ##
 <img src="Source/Assets/Screenshot.jpg" width="600">
@@ -63,7 +63,7 @@ Built by a Senior DSP Architect, the plugin strictly adheres to real-time safety
 
 ## Installation
 
-1. Download the latest `Multi-Oto.vst3` file from the [[Releases](https://github.com/OTODESK4193/MULTI-OTO/releases/latest)] page.
+1. Download the latest `BassLineMatrix.vst3` file from the [[Releases](https://github.com/OTODESK4193/BassLineMatrix.vst3/releases/latest)] page.
 2. Move the `.vst3` file to your default Windows VST3 plugin directory:
 `C:\Program Files\Common Files\VST3`
 3. Rescan your plugins in Ableton Live.
