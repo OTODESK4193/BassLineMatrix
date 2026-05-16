@@ -63,7 +63,7 @@ Built by a Senior DSP Architect, the plugin strictly adheres to real-time safety
 
 ## Installation
 
-1. Download the latest `Multi-Oto.vst3` file from the [[Releases](https://github.com/OTODESK4193/BassLineMatrix/releases/latest)] page.
+1. Download the latest `BassLineMatrix.vst3` file from the [[Releases](https://github.com/OTODESK4193/BassLineMatrix/releases/latest)] page.
 2. Move the `.vst3` file to your default Windows VST3 plugin directory:
 `C:\Program Files\Common Files\VST3`
 3. Rescan your plugins in Ableton Live.
