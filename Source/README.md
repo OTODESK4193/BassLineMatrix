@@ -102,5 +102,3 @@ This project is completely free and open-source. It is distributed under the **G
 
 * **Social**: [@kijyoumusic](https://x.com/kijyoumusic)
 
-
-
