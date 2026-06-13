@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-AGPLv3-green)
 ![JUCE](https://img.shields.io/badge/JUCE-8.0.8-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20-lightgrey)
-![Downloads](https://img.shields.io/github/downloads/OTODESK4193/BassLineMatrix.vst3/total.svg)
+![Downloads](https://img.shields.io/github/downloads/OTODESK4193/BassLineMatrix/total.svg)
 
 ##
 <img src="Source/Assets/Screenshot.jpg" width="600">
